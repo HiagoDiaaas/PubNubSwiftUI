@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "450D7670-9AF2-44C3-B065-D1F77E82A698",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:PLMControl.xcodeproj",
+        "identifier" : "C11F919328DD315700615E7A",
+        "name" : "PLMControlUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

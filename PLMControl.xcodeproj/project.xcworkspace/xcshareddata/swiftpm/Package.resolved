@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pubnub/swift.git",
+      "state" : {
+        "revision" : "2cea0c0b3b510b86eeb5565dce944cedc884a33a",
+        "version" : "3.0.1"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "6fe203dc33195667ce1759bf0182975e4653ba1c",
+        "version" : "1.4.4"
+      }
+    },
+    {
+      "identity" : "swift-log-console-colors",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nneuberger1/swift-log-console-colors.git",
+      "state" : {
+        "revision" : "510bfc6ef5d656ea450497c4c2b50e0cd0240403",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
